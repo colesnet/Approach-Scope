@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+arrivals_log.json
+error.log
+screenshots/
+# your own settings and the files setup generates for your airport
+config.ini
+local/
+release/

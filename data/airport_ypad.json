@@ -1,0 +1,170 @@
+{
+ "_about": "Adelaide Airport. Runway ends from OurAirports (public domain); map and suburbs from Geoscape Administrative Boundaries (CC BY 4.0). For interest only - not for navigation.",
+ "icao": "YPAD",
+ "iata": "ADL",
+ "name": "ADELAIDE",
+ "arp": [
+  -34.945,
+  138.530556
+ ],
+ "elev_ft": 20,
+ "mag_var_deg": 8.1,
+ "geoid_sep_ft": -4,
+ "transition_alt_ft": 10000,
+ "curfew": {
+  "start": "23:00",
+  "end": "06:00"
+ },
+ "runways": [
+  {
+   "id": "23",
+   "thr": [
+    -34.940601,
+    138.542999
+   ],
+   "opp": [
+    -34.9585,
+    138.516998
+   ],
+   "elev_ft": 20,
+   "tch_ft": 47,
+   "gp_deg": 3.0,
+   "displaced_ft": 0,
+   "aid": "",
+   "fixes": []
+  },
+  {
+   "id": "05",
+   "thr": [
+    -34.957633,
+    138.518258
+   ],
+   "opp": [
+    -34.940601,
+    138.542999
+   ],
+   "elev_ft": 14,
+   "tch_ft": 50,
+   "gp_deg": 3.0,
+   "displaced_ft": 492,
+   "aid": "",
+   "fixes": []
+  },
+  {
+   "id": "12",
+   "thr": [
+    -34.9412,
+    138.522003
+   ],
+   "opp": [
+    -34.949402,
+    138.537003
+   ],
+   "elev_ft": 14,
+   "tch_ft": 50,
+   "gp_deg": 3.0,
+   "displaced_ft": 0,
+   "aid": "",
+   "fixes": []
+  },
+  {
+   "id": "30",
+   "thr": [
+    -34.949402,
+    138.537003
+   ],
+   "opp": [
+    -34.9412,
+    138.522003
+   ],
+   "elev_ft": 14,
+   "tch_ft": 50,
+   "gp_deg": 3.0,
+   "displaced_ft": 0,
+   "aid": "",
+   "fixes": []
+  }
+ ],
+ "nearby": [
+  {
+   "icao": "YPPF",
+   "name": "PARAFIELD",
+   "pos": [
+    -34.7933,
+    138.633
+   ],
+   "elev_ft": 57,
+   "strips": [
+    [
+     [
+      -34.8038,
+      138.631
+     ],
+     [
+      -34.7931,
+      138.638
+     ]
+    ],
+    [
+     [
+      -34.8022,
+      138.634
+     ],
+     [
+      -34.792,
+      138.64101
+     ]
+    ],
+    [
+     [
+      -34.7935,
+      138.625
+     ],
+     [
+      -34.7928,
+      138.63499
+     ]
+    ],
+    [
+     [
+      -34.7956,
+      138.623
+     ],
+     [
+      -34.7948,
+      138.634
+     ]
+    ]
+   ]
+  },
+  {
+   "icao": "YPED",
+   "name": "EDINBURGH",
+   "pos": [
+    -34.705705,
+    138.615564
+   ],
+   "elev_ft": 67,
+   "strips": [
+    [
+     [
+      -34.69194,
+      138.61803
+     ],
+     [
+      -34.71837,
+      138.61324
+     ]
+    ]
+   ]
+  }
+ ],
+ "map": "map_adelaide.json",
+ "localities": "localities.json",
+ "sea_name": "GULF ST VINCENT",
+ "demo_home": {
+  "name": "DEMO HOME",
+  "lat": -34.871,
+  "lon": 138.61
+ }
+}

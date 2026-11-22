@@ -1,0 +1,7 @@
+{"_about": "Prague, used only by the tests: the captured adsb.fi sample in this folder is real traffic from there.",
+ "icao": "LKPR", "name": "PRAGUE", "arp": [50.1008, 14.26], "elev_ft": 1247, "mag_var_deg": 5.2, "geoid_sep_ft": 148,
+ "runways": [
+  {"id": "06", "thr": [50.101799, 14.2263], "opp": [50.116001, 14.2734], "elev_ft": 1202, "tch_ft": 50, "gp_deg": 3.0},
+  {"id": "24", "thr": [50.116001, 14.2734], "opp": [50.101799, 14.2263], "elev_ft": 1158, "tch_ft": 50, "gp_deg": 3.0},
+  {"id": "12", "thr": [50.108002, 14.2454], "opp": [50.0905, 14.2817], "elev_ft": 1160, "tch_ft": 50, "gp_deg": 3.0},
+  {"id": "30", "thr": [50.0905, 14.2817], "opp": [50.108002, 14.2454], "elev_ft": 1232, "tch_ft": 50, "gp_deg": 3.0}]}

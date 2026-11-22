@@ -1,0 +1,4 @@
+pygame==2.6.1
+requests==2.32.5
+# optional, only for live ATC audio (needs VLC installed as well):
+# python-vlc==3.0.21203
